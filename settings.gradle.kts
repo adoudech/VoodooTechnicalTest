@@ -21,4 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "VoodooTechnicalTest"
 include(":app")
- 
+include(":ads:api")
+include(":ads:core:domain")
+include(":ads:core:data")
+include(":ads:assembler")

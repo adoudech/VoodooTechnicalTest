@@ -1,4 +1,4 @@
-# Lbc Technical Test
+# Voodoo Technical Test
 
 ## Versioning
 
