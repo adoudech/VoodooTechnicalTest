@@ -31,6 +31,8 @@ I would add a Watchdog which is a java application that uses api to operate some
 
 ## Possible next steps
 
+__Using precompiled gradle plugins__
+
 __Entities builders in domain module__  
 Let the domain choose default values on construction and have a chance to reconcile data.
 
